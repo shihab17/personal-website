@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:48px;
+}
+#hello-highlight{
+    color:#363958;
+}
+#name-color{
+    color:#FF8367;
+    font-size: 40px;
+}
+.first-section{
+    height: 400px;
+    width: 100%;
+    padding:5%;
+}
+.second-section{
+    height:400px;
+    margin-top: 150px;
+    margin-bottom: 250px;
+}
+.third-section{
+    background-color:rgb(221, 221, 221);
+    height: 600px;
+}
+.hlaf-div{
+    width:40%;
+    float: left;
+    padding:3%;
+}
+.hlaf-div img{
+    width: 100%;
+}
+ p{
+    color:#3E3E3E;
+}
+.btn{
+    text-decoration:none;
+    background-color:#FF8367;
+    padding:15px 20px;
+    color:white;
+    border-radius: 5px;
+}
+.about-header{
+    color:#363958;
+    font-size: 32px;
+}
+.third-header{
+   padding-top: 100px;
+    text-align: center;
+    color:#363958;
+}
+.lastet{
+    color:#FF8367;
+}
+.card{
+    width:25%;
+    float:left;
+    margin:30px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+}
+.card img{
+    width:100%;
+}
+.full-card{
+    margin-right: 120px;
+    margin-left: 120px;
+}
+.card-header{
+    color:#363958;
+}
+.forth-section {
+   background-image: url("images/Group_33094_1.png");
+   background-size: 906px 225px;
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 225px;
+   margin-top: 100px;
+}
+.header-work{
+    margin-left: 280px;
+    font-size: 40px;
+    color:white;
+    padding-top: 80px;;
+}
+#chat{
+    margin-left: 100px;
+}
+.btn-al{
+    margin-top: 132px;
+    margin-left: 132px;
+}
+.work{
+    width:45%;
+    float:left;
+}
